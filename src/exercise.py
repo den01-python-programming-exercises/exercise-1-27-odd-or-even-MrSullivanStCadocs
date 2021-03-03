@@ -4,9 +4,9 @@ def main():
     remainder = number % 2
 
     if (remainder == 0):
-      print("Number " + str(number) + " is even")
+      print("Number " + str(number) + " is even.")
     else:
-      print("Number " + str(number) + " is odd")
+      print("Number " + str(number) + " is odd.")
 
 if __name__ == '__main__':
     main()
